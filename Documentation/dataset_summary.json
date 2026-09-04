@@ -1,0 +1,13 @@
+{
+  "customers": 1200,
+  "products": 80,
+  "orders": 10500,
+  "returns": 533,
+  "marketing_rows": 108,
+  "date_range": [
+    "2025-01-01",
+    "2026-06-30"
+  ],
+  "net_revenue": 2085079.32,
+  "synthetic": true
+}

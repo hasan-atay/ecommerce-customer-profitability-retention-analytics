@@ -1,0 +1,57 @@
+-- DAX_Measures.dax
+Total Revenue = SUM(FactSales[NetSales])
+
+Gross Sales = SUM(FactSales[GrossSales])
+
+Discount Value = SUM(FactSales[DiscountValue])
+
+COGS = SUM(FactSales[COGS])
+
+Operating Cost =
+    SUM(FactSales[COGS])
+    + SUM(FactSales[ShippingCost])
+    + SUM(FactSales[PaymentCost])
+
+Gross Profit = [Total Revenue] - [COGS]
+
+Contribution Profit = [Total Revenue] - [Operating Cost]
+
+Gross Margin % = DIVIDE([Gross Profit], [Total Revenue])
+
+Orders = DISTINCTCOUNT(FactSales[OrderID])
+
+Active Customers = DISTINCTCOUNT(FactSales[CustomerID])
+
+AOV = DIVIDE([Total Revenue], [Orders])
+
+Discount Rate % = DIVIDE([Discount Value], [Gross Sales])
+
+Revenue LY =
+    CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DimDate[Date]))
+
+Revenue YoY % =
+    DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY])
+
+Profit LY =
+    CALCULATE([Gross Profit], SAMEPERIODLASTYEAR(DimDate[Date]))
+
+Profit YoY % =
+    DIVIDE([Gross Profit] - [Profit LY], [Profit LY])
+
+Revenue Rolling 12M =
+    CALCULATE(
+        [Total Revenue],
+        DATESINPERIOD(DimDate[Date], MAX(DimDate[Date]), -12, MONTH)
+    )
+
+Return Impact =
+    SUM(FactReturns[RefundValue]) + SUM(FactReturns[ReturnCost])
+
+Customer Profit =
+    [Total Revenue] - [Operating Cost] - [Return Impact]
+
+Profit per Customer =
+    DIVIDE([Customer Profit], [Active Customers])
+
+-- Retention and CLV should be calculated against the defined customer cohort rules.
+-- Use a dedicated Target table for dynamic Actual vs Target KPI cards.

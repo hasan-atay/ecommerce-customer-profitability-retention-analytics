@@ -1,0 +1,1201 @@
+CustomerID,Country,AcquisitionChannel,SignupDate
+C10000,UK,Referral,2026-06-10
+C10001,Germany,Organic,2025-11-21
+C10002,UK,Referral,2026-04-19
+C10003,UK,Organic,2025-09-03
+C10004,Netherlands,Referral,2026-03-19
+C10005,France,Social,2025-05-10
+C10006,France,Referral,2026-03-14
+C10007,France,Social,2026-02-14
+C10008,UK,Paid Search,2026-05-13
+C10009,UK,Organic,2025-10-31
+C10010,Italy,Email,2025-09-22
+C10011,UK,Referral,2026-04-23
+C10012,Spain,Affiliate,2025-03-21
+C10013,Spain,Social,2025-10-03
+C10014,UK,Paid Search,2025-09-01
+C10015,France,Organic,2025-07-25
+C10016,Germany,Referral,2026-04-18
+C10017,France,Email,2026-03-30
+C10018,Germany,Referral,2025-05-24
+C10019,UK,Organic,2025-03-16
+C10020,UK,Social,2026-06-19
+C10021,France,Social,2026-02-26
+C10022,Germany,Social,2025-10-07
+C10023,Netherlands,Email,2025-03-25
+C10024,Germany,Organic,2025-10-24
+C10025,UK,Email,2025-08-10
+C10026,UK,Social,2025-02-03
+C10027,UK,Paid Search,2026-03-08
+C10028,Netherlands,Organic,2025-06-19
+C10029,UK,Social,2025-11-21
+C10030,UK,Organic,2025-11-21
+C10031,Spain,Paid Search,2025-05-28
+C10032,France,Paid Search,2026-04-20
+C10033,UK,Social,2026-05-08
+C10034,Germany,Organic,2026-01-05
+C10035,UK,Referral,2025-04-20
+C10036,France,Paid Search,2025-07-23
+C10037,UK,Email,2026-02-19
+C10038,Germany,Affiliate,2025-07-09
+C10039,Spain,Organic,2025-12-23
+C10040,Netherlands,Paid Search,2025-02-25
+C10041,UK,Email,2026-05-28
+C10042,Italy,Email,2025-05-03
+C10043,France,Organic,2026-01-22
+C10044,Netherlands,Email,2026-01-21
+C10045,Netherlands,Paid Search,2025-11-13
+C10046,Spain,Social,2026-01-10
+C10047,UK,Paid Search,2026-06-03
+C10048,Netherlands,Affiliate,2025-03-09
+C10049,Spain,Paid Search,2025-09-13
+C10050,Spain,Paid Search,2025-11-27
+C10051,UK,Email,2025-04-01
+C10052,Germany,Paid Search,2026-02-21
+C10053,Germany,Organic,2026-06-01
+C10054,Germany,Paid Search,2026-02-08
+C10055,Germany,Paid Search,2025-08-31
+C10056,UK,Social,2025-04-08
+C10057,Italy,Paid Search,2025-05-18
+C10058,UK,Paid Search,2026-04-04
+C10059,France,Affiliate,2025-07-31
+C10060,France,Organic,2026-02-05
+C10061,Italy,Social,2025-08-30
+C10062,UK,Organic,2026-01-16
+C10063,UK,Organic,2025-08-18
+C10064,Spain,Referral,2025-03-22
+C10065,UK,Organic,2025-02-02
+C10066,Netherlands,Affiliate,2025-03-23
+C10067,Netherlands,Organic,2025-08-22
+C10068,Spain,Paid Search,2025-05-27
+C10069,Italy,Social,2025-02-24
+C10070,UK,Social,2025-08-16
+C10071,UK,Social,2025-02-16
+C10072,UK,Affiliate,2026-05-21
+C10073,Netherlands,Social,2025-01-25
+C10074,UK,Email,2026-06-15
+C10075,France,Social,2025-03-30
+C10076,Spain,Social,2025-08-26
+C10077,France,Affiliate,2025-09-29
+C10078,Netherlands,Paid Search,2026-03-08
+C10079,UK,Social,2026-05-01
+C10080,UK,Organic,2025-03-02
+C10081,UK,Paid Search,2025-05-30
+C10082,Netherlands,Organic,2025-12-21
+C10083,UK,Social,2025-12-25
+C10084,Germany,Social,2025-06-06
+C10085,Germany,Paid Search,2025-11-05
+C10086,France,Organic,2026-02-18
+C10087,UK,Organic,2026-03-02
+C10088,France,Affiliate,2026-02-23
+C10089,Italy,Email,2025-01-04
+C10090,Germany,Paid Search,2025-08-19
+C10091,France,Organic,2025-04-11
+C10092,Italy,Organic,2025-03-06
+C10093,Spain,Email,2025-04-10
+C10094,Germany,Paid Search,2025-01-31
+C10095,UK,Social,2025-04-05
+C10096,Spain,Affiliate,2025-04-07
+C10097,Netherlands,Email,2026-01-10
+C10098,Netherlands,Organic,2025-03-08
+C10099,Spain,Referral,2025-04-15
+C10100,Netherlands,Referral,2025-04-09
+C10101,Germany,Email,2025-11-04
+C10102,Germany,Social,2025-04-29
+C10103,Spain,Email,2026-02-15
+C10104,Spain,Social,2026-01-27
+C10105,UK,Paid Search,2026-01-11
+C10106,UK,Paid Search,2025-09-25
+C10107,Germany,Organic,2025-02-12
+C10108,Germany,Paid Search,2026-01-04
+C10109,Italy,Organic,2025-04-11
+C10110,Germany,Organic,2025-02-17
+C10111,Germany,Paid Search,2026-01-13
+C10112,UK,Organic,2025-03-17
+C10113,Netherlands,Affiliate,2025-05-05
+C10114,Italy,Affiliate,2026-02-11
+C10115,UK,Social,2026-05-15
+C10116,France,Paid Search,2025-12-18
+C10117,UK,Referral,2026-03-23
+C10118,UK,Affiliate,2025-01-27
+C10119,Italy,Paid Search,2025-05-23
+C10120,Germany,Organic,2025-01-07
+C10121,Germany,Referral,2026-05-13
+C10122,Netherlands,Email,2025-12-23
+C10123,France,Paid Search,2025-05-16
+C10124,UK,Affiliate,2026-04-28
+C10125,Spain,Paid Search,2025-06-01
+C10126,UK,Organic,2025-12-15
+C10127,Netherlands,Referral,2025-11-14
+C10128,France,Social,2026-01-27
+C10129,Germany,Paid Search,2025-01-28
+C10130,Italy,Paid Search,2026-02-17
+C10131,UK,Organic,2026-01-03
+C10132,Spain,Referral,2026-02-08
+C10133,France,Email,2025-11-04
+C10134,UK,Referral,2025-05-16
+C10135,Italy,Organic,2026-01-02
+C10136,France,Organic,2025-11-23
+C10137,France,Organic,2025-04-23
+C10138,UK,Email,2025-01-26
+C10139,Germany,Email,2026-05-23
+C10140,UK,Affiliate,2025-09-28
+C10141,France,Referral,2026-04-08
+C10142,UK,Paid Search,2025-11-02
+C10143,UK,Affiliate,2025-01-06
+C10144,UK,Social,2026-03-08
+C10145,UK,Organic,2026-05-07
+C10146,Netherlands,Organic,2025-08-31
+C10147,Netherlands,Email,2025-05-16
+C10148,UK,Email,2026-06-02
+C10149,Netherlands,Referral,2025-11-07
+C10150,UK,Organic,2026-03-22
+C10151,UK,Social,2025-08-12
+C10152,France,Referral,2026-02-04
+C10153,Netherlands,Email,2026-05-24
+C10154,Germany,Email,2025-09-20
+C10155,UK,Affiliate,2026-01-19
+C10156,Germany,Social,2025-11-22
+C10157,Spain,Email,2025-07-01
+C10158,Germany,Affiliate,2026-02-01
+C10159,Spain,Referral,2025-12-04
+C10160,Italy,Organic,2025-07-19
+C10161,Italy,Email,2025-02-08
+C10162,Germany,Organic,2026-02-02
+C10163,France,Social,2025-01-31
+C10164,UK,Affiliate,2025-02-02
+C10165,Italy,Paid Search,2026-02-27
+C10166,Italy,Organic,2025-12-29
+C10167,Spain,Email,2025-03-12
+C10168,Germany,Email,2025-10-08
+C10169,UK,Organic,2025-07-05
+C10170,UK,Affiliate,2025-11-20
+C10171,UK,Paid Search,2026-05-20
+C10172,UK,Organic,2025-06-11
+C10173,UK,Paid Search,2025-05-25
+C10174,Germany,Organic,2025-11-15
+C10175,Spain,Organic,2026-02-23
+C10176,UK,Paid Search,2025-03-15
+C10177,Germany,Paid Search,2025-11-12
+C10178,Spain,Email,2025-03-31
+C10179,UK,Organic,2025-03-25
+C10180,Germany,Social,2025-10-27
+C10181,France,Referral,2025-08-28
+C10182,UK,Referral,2026-06-10
+C10183,UK,Social,2025-01-13
+C10184,France,Referral,2025-12-28
+C10185,UK,Email,2025-09-10
+C10186,France,Social,2025-03-18
+C10187,Germany,Social,2026-04-25
+C10188,UK,Referral,2026-01-06
+C10189,UK,Paid Search,2026-01-20
+C10190,Italy,Social,2025-12-20
+C10191,France,Social,2026-05-09
+C10192,UK,Social,2025-04-19
+C10193,Netherlands,Email,2025-05-29
+C10194,UK,Paid Search,2025-04-14
+C10195,Italy,Email,2025-05-19
+C10196,Netherlands,Organic,2026-05-31
+C10197,France,Organic,2026-04-27
+C10198,Italy,Email,2026-01-23
+C10199,Germany,Referral,2025-01-03
+C10200,Germany,Organic,2026-06-11
+C10201,Italy,Paid Search,2025-10-20
+C10202,Italy,Social,2025-05-29
+C10203,UK,Social,2025-06-24
+C10204,Spain,Paid Search,2025-09-29
+C10205,Germany,Paid Search,2026-06-01
+C10206,Italy,Email,2025-03-17
+C10207,Netherlands,Social,2025-08-17
+C10208,Italy,Email,2025-04-04
+C10209,Netherlands,Email,2025-06-24
+C10210,UK,Social,2025-04-02
+C10211,UK,Paid Search,2026-06-17
+C10212,Italy,Social,2025-06-26
+C10213,Germany,Paid Search,2026-02-25
+C10214,Spain,Paid Search,2025-04-01
+C10215,UK,Paid Search,2025-04-02
+C10216,Germany,Paid Search,2025-12-02
+C10217,UK,Social,2026-01-16
+C10218,Spain,Paid Search,2026-01-08
+C10219,France,Organic,2025-06-15
+C10220,UK,Organic,2025-03-21
+C10221,France,Paid Search,2026-05-11
+C10222,Spain,Paid Search,2025-07-05
+C10223,UK,Email,2026-05-09
+C10224,France,Organic,2025-05-15
+C10225,Italy,Organic,2025-02-17
+C10226,UK,Organic,2026-02-28
+C10227,Netherlands,Email,2025-07-11
+C10228,UK,Social,2025-04-13
+C10229,Spain,Organic,2025-03-22
+C10230,UK,Organic,2026-05-09
+C10231,Germany,Email,2026-04-23
+C10232,UK,Organic,2026-03-10
+C10233,Germany,Organic,2026-06-07
+C10234,Italy,Affiliate,2026-04-23
+C10235,UK,Organic,2025-11-27
+C10236,UK,Social,2026-04-28
+C10237,Netherlands,Affiliate,2025-11-22
+C10238,Germany,Social,2026-02-04
+C10239,Germany,Referral,2025-09-19
+C10240,Netherlands,Organic,2026-03-23
+C10241,Italy,Social,2026-03-05
+C10242,Spain,Social,2025-07-05
+C10243,Germany,Social,2025-08-24
+C10244,UK,Organic,2026-06-23
+C10245,UK,Email,2025-01-03
+C10246,Spain,Social,2025-02-13
+C10247,Netherlands,Email,2025-02-08
+C10248,UK,Affiliate,2025-04-12
+C10249,Germany,Paid Search,2025-10-21
+C10250,France,Affiliate,2025-01-17
+C10251,Germany,Social,2025-09-20
+C10252,Germany,Email,2026-04-28
+C10253,Spain,Email,2025-07-15
+C10254,UK,Affiliate,2026-03-07
+C10255,UK,Organic,2025-07-21
+C10256,France,Organic,2025-09-16
+C10257,France,Paid Search,2026-06-23
+C10258,Italy,Organic,2025-07-26
+C10259,Spain,Paid Search,2025-07-22
+C10260,Netherlands,Referral,2025-12-07
+C10261,Italy,Organic,2025-09-04
+C10262,Germany,Paid Search,2025-12-02
+C10263,UK,Paid Search,2025-04-23
+C10264,France,Organic,2026-02-17
+C10265,Germany,Organic,2026-06-20
+C10266,Germany,Referral,2025-08-25
+C10267,UK,Social,2025-01-16
+C10268,France,Email,2026-05-31
+C10269,France,Organic,2025-11-16
+C10270,Germany,Paid Search,2026-03-15
+C10271,UK,Paid Search,2025-07-09
+C10272,Italy,Social,2025-12-23
+C10273,UK,Affiliate,2025-12-25
+C10274,UK,Organic,2025-06-16
+C10275,Netherlands,Email,2025-12-18
+C10276,Germany,Paid Search,2026-06-07
+C10277,Italy,Paid Search,2026-01-31
+C10278,UK,Affiliate,2025-08-28
+C10279,France,Organic,2025-09-18
+C10280,UK,Affiliate,2025-03-02
+C10281,Netherlands,Email,2026-01-03
+C10282,Italy,Paid Search,2025-09-26
+C10283,France,Email,2025-02-27
+C10284,Spain,Paid Search,2026-05-03
+C10285,UK,Email,2025-01-21
+C10286,Netherlands,Email,2025-06-20
+C10287,Germany,Email,2025-04-09
+C10288,UK,Organic,2025-01-02
+C10289,Italy,Organic,2026-01-03
+C10290,France,Email,2026-03-21
+C10291,UK,Social,2025-09-18
+C10292,UK,Paid Search,2025-11-29
+C10293,UK,Email,2026-02-07
+C10294,France,Organic,2025-04-24
+C10295,Netherlands,Social,2025-10-11
+C10296,UK,Affiliate,2025-01-11
+C10297,Italy,Organic,2026-05-03
+C10298,UK,Social,2025-06-10
+C10299,France,Email,2025-12-25
+C10300,Netherlands,Referral,2026-06-04
+C10301,Spain,Social,2025-12-12
+C10302,Netherlands,Email,2026-05-17
+C10303,France,Referral,2026-01-08
+C10304,Germany,Paid Search,2025-06-23
+C10305,UK,Email,2025-09-07
+C10306,Italy,Organic,2025-01-03
+C10307,France,Paid Search,2025-08-01
+C10308,Spain,Social,2026-01-21
+C10309,Spain,Affiliate,2025-05-04
+C10310,UK,Referral,2026-04-17
+C10311,UK,Referral,2026-01-03
+C10312,UK,Email,2025-02-10
+C10313,UK,Social,2026-05-04
+C10314,UK,Social,2025-08-02
+C10315,Italy,Paid Search,2026-03-25
+C10316,Italy,Organic,2025-02-01
+C10317,Germany,Paid Search,2025-09-20
+C10318,Germany,Organic,2025-11-09
+C10319,France,Referral,2026-05-21
+C10320,UK,Paid Search,2025-10-20
+C10321,France,Email,2025-04-21
+C10322,Germany,Paid Search,2025-08-24
+C10323,France,Paid Search,2025-03-30
+C10324,Netherlands,Organic,2025-04-05
+C10325,Germany,Paid Search,2025-10-18
+C10326,UK,Referral,2025-06-22
+C10327,UK,Organic,2026-06-23
+C10328,UK,Organic,2025-11-13
+C10329,Netherlands,Organic,2025-02-15
+C10330,Germany,Email,2025-04-22
+C10331,Netherlands,Paid Search,2026-01-08
+C10332,UK,Email,2025-11-01
+C10333,UK,Paid Search,2025-09-22
+C10334,UK,Referral,2025-05-10
+C10335,Germany,Email,2025-11-03
+C10336,Italy,Social,2025-11-28
+C10337,Netherlands,Paid Search,2026-04-12
+C10338,UK,Paid Search,2025-12-20
+C10339,UK,Paid Search,2025-12-17
+C10340,Germany,Affiliate,2025-03-15
+C10341,UK,Social,2025-11-29
+C10342,Netherlands,Affiliate,2025-12-21
+C10343,Germany,Email,2025-03-21
+C10344,UK,Social,2026-01-20
+C10345,Spain,Email,2025-02-01
+C10346,Spain,Email,2026-06-28
+C10347,UK,Paid Search,2025-10-01
+C10348,UK,Organic,2025-12-03
+C10349,France,Social,2026-06-08
+C10350,Netherlands,Email,2025-08-01
+C10351,Netherlands,Organic,2025-09-09
+C10352,Spain,Affiliate,2025-11-25
+C10353,France,Paid Search,2026-03-02
+C10354,UK,Social,2025-11-20
+C10355,France,Email,2026-01-18
+C10356,France,Email,2025-12-02
+C10357,UK,Email,2026-04-03
+C10358,UK,Organic,2025-04-01
+C10359,Germany,Paid Search,2025-08-29
+C10360,UK,Organic,2026-06-27
+C10361,UK,Social,2025-10-12
+C10362,Germany,Paid Search,2026-06-15
+C10363,UK,Organic,2026-06-17
+C10364,UK,Paid Search,2026-01-10
+C10365,Germany,Email,2026-01-29
+C10366,UK,Affiliate,2025-07-23
+C10367,France,Organic,2025-07-07
+C10368,Germany,Paid Search,2026-06-04
+C10369,UK,Organic,2025-04-27
+C10370,France,Email,2025-03-16
+C10371,UK,Affiliate,2025-09-17
+C10372,France,Social,2026-01-15
+C10373,UK,Social,2026-04-04
+C10374,Spain,Email,2026-01-24
+C10375,Germany,Social,2025-12-26
+C10376,UK,Social,2025-09-19
+C10377,Germany,Organic,2025-09-17
+C10378,Germany,Email,2026-01-03
+C10379,Germany,Paid Search,2026-03-07
+C10380,UK,Paid Search,2026-04-16
+C10381,Italy,Organic,2025-03-13
+C10382,Germany,Organic,2025-03-16
+C10383,Italy,Affiliate,2026-02-09
+C10384,Italy,Email,2025-01-29
+C10385,Germany,Email,2025-06-09
+C10386,Italy,Paid Search,2025-04-16
+C10387,Germany,Paid Search,2026-02-15
+C10388,Germany,Affiliate,2026-02-14
+C10389,UK,Paid Search,2026-02-25
+C10390,Spain,Organic,2026-04-15
+C10391,UK,Email,2025-03-05
+C10392,France,Affiliate,2025-09-13
+C10393,France,Email,2025-05-10
+C10394,Germany,Email,2026-01-28
+C10395,UK,Referral,2025-08-08
+C10396,UK,Paid Search,2026-01-26
+C10397,Italy,Organic,2025-12-09
+C10398,Germany,Email,2026-05-11
+C10399,UK,Paid Search,2025-12-08
+C10400,UK,Organic,2025-07-05
+C10401,Germany,Paid Search,2025-03-20
+C10402,UK,Organic,2025-07-02
+C10403,Spain,Organic,2026-06-27
+C10404,Germany,Referral,2025-05-02
+C10405,UK,Affiliate,2025-08-12
+C10406,UK,Affiliate,2026-05-22
+C10407,UK,Email,2025-05-06
+C10408,Netherlands,Affiliate,2026-02-09
+C10409,Netherlands,Referral,2025-12-13
+C10410,Netherlands,Referral,2025-07-03
+C10411,Italy,Organic,2025-09-22
+C10412,Germany,Social,2026-06-01
+C10413,Italy,Paid Search,2025-10-25
+C10414,UK,Affiliate,2025-12-19
+C10415,Italy,Organic,2026-06-26
+C10416,UK,Social,2026-05-26
+C10417,UK,Email,2025-04-11
+C10418,UK,Organic,2025-03-31
+C10419,Germany,Organic,2025-11-11
+C10420,UK,Paid Search,2025-02-27
+C10421,Netherlands,Paid Search,2026-06-25
+C10422,Germany,Organic,2025-03-20
+C10423,Germany,Organic,2025-10-15
+C10424,Germany,Referral,2025-05-24
+C10425,UK,Paid Search,2025-03-29
+C10426,UK,Affiliate,2025-05-30
+C10427,UK,Affiliate,2025-08-20
+C10428,UK,Paid Search,2025-01-14
+C10429,Spain,Email,2025-08-23
+C10430,Netherlands,Paid Search,2025-05-04
+C10431,Netherlands,Paid Search,2025-08-16
+C10432,Spain,Referral,2026-05-20
+C10433,UK,Paid Search,2025-06-22
+C10434,UK,Social,2026-03-17
+C10435,Italy,Paid Search,2026-03-21
+C10436,UK,Email,2025-02-18
+C10437,UK,Email,2026-05-17
+C10438,UK,Email,2025-01-07
+C10439,France,Social,2025-04-08
+C10440,Spain,Organic,2025-03-19
+C10441,UK,Paid Search,2025-10-06
+C10442,Italy,Paid Search,2026-06-18
+C10443,UK,Organic,2026-03-19
+C10444,Germany,Organic,2025-12-31
+C10445,UK,Referral,2026-01-07
+C10446,UK,Paid Search,2026-02-26
+C10447,UK,Referral,2025-11-10
+C10448,France,Social,2026-06-03
+C10449,UK,Paid Search,2026-02-09
+C10450,Spain,Email,2026-04-01
+C10451,UK,Paid Search,2026-01-31
+C10452,Germany,Affiliate,2025-09-19
+C10453,UK,Social,2025-09-18
+C10454,Germany,Paid Search,2026-04-29
+C10455,Italy,Referral,2025-11-27
+C10456,Italy,Email,2025-09-30
+C10457,Italy,Email,2025-12-22
+C10458,Germany,Referral,2025-05-26
+C10459,Germany,Organic,2026-04-30
+C10460,Germany,Social,2026-06-15
+C10461,France,Paid Search,2025-06-03
+C10462,Germany,Affiliate,2025-05-19
+C10463,UK,Email,2026-03-22
+C10464,France,Organic,2026-01-26
+C10465,UK,Affiliate,2025-08-19
+C10466,France,Social,2026-04-28
+C10467,UK,Organic,2026-06-06
+C10468,UK,Organic,2026-03-10
+C10469,Netherlands,Paid Search,2025-07-21
+C10470,Germany,Email,2026-01-06
+C10471,Italy,Social,2025-03-12
+C10472,Germany,Email,2025-12-09
+C10473,UK,Paid Search,2026-02-26
+C10474,UK,Paid Search,2025-09-15
+C10475,Germany,Paid Search,2026-03-16
+C10476,UK,Affiliate,2025-03-08
+C10477,Germany,Paid Search,2026-02-24
+C10478,Germany,Referral,2026-04-10
+C10479,Spain,Organic,2026-06-12
+C10480,France,Referral,2025-06-26
+C10481,France,Referral,2026-03-12
+C10482,Italy,Organic,2025-02-22
+C10483,UK,Organic,2025-01-02
+C10484,Italy,Referral,2026-06-18
+C10485,Germany,Paid Search,2026-04-03
+C10486,UK,Paid Search,2025-12-24
+C10487,Germany,Email,2025-07-18
+C10488,France,Email,2025-01-22
+C10489,Netherlands,Organic,2026-02-14
+C10490,UK,Paid Search,2026-02-04
+C10491,Italy,Organic,2026-06-22
+C10492,UK,Paid Search,2025-09-15
+C10493,France,Paid Search,2026-01-29
+C10494,Spain,Organic,2025-01-18
+C10495,Netherlands,Paid Search,2025-08-05
+C10496,France,Paid Search,2025-06-09
+C10497,UK,Paid Search,2026-06-25
+C10498,Spain,Paid Search,2026-03-12
+C10499,UK,Referral,2026-01-25
+C10500,UK,Organic,2025-06-18
+C10501,Spain,Referral,2025-10-21
+C10502,UK,Referral,2025-09-11
+C10503,Germany,Paid Search,2025-09-12
+C10504,France,Organic,2025-11-11
+C10505,France,Organic,2025-12-25
+C10506,France,Affiliate,2025-12-29
+C10507,Germany,Paid Search,2025-11-14
+C10508,UK,Paid Search,2026-02-21
+C10509,Netherlands,Paid Search,2025-07-17
+C10510,Germany,Referral,2026-02-11
+C10511,UK,Email,2025-01-29
+C10512,France,Social,2025-08-26
+C10513,UK,Paid Search,2025-12-08
+C10514,Germany,Social,2026-01-16
+C10515,France,Social,2025-02-03
+C10516,Netherlands,Organic,2025-02-26
+C10517,Germany,Paid Search,2026-02-25
+C10518,Germany,Paid Search,2025-10-07
+C10519,France,Paid Search,2026-02-15
+C10520,Spain,Paid Search,2026-01-29
+C10521,UK,Paid Search,2026-05-20
+C10522,UK,Paid Search,2026-05-10
+C10523,UK,Referral,2025-05-11
+C10524,Germany,Paid Search,2025-05-04
+C10525,Spain,Email,2025-04-01
+C10526,UK,Paid Search,2025-12-14
+C10527,France,Paid Search,2025-05-03
+C10528,UK,Referral,2026-02-08
+C10529,UK,Social,2025-08-13
+C10530,France,Social,2025-07-31
+C10531,UK,Organic,2026-04-13
+C10532,UK,Social,2025-06-03
+C10533,France,Organic,2025-01-13
+C10534,UK,Paid Search,2025-10-14
+C10535,Spain,Paid Search,2025-03-25
+C10536,UK,Organic,2026-05-28
+C10537,UK,Organic,2025-08-29
+C10538,Germany,Organic,2025-01-11
+C10539,Italy,Organic,2025-09-29
+C10540,UK,Affiliate,2025-10-23
+C10541,UK,Referral,2025-05-08
+C10542,Spain,Organic,2025-01-05
+C10543,UK,Social,2026-05-23
+C10544,UK,Paid Search,2025-12-20
+C10545,Germany,Email,2026-05-02
+C10546,Germany,Social,2025-10-07
+C10547,Germany,Referral,2025-04-17
+C10548,Germany,Email,2026-06-21
+C10549,France,Social,2025-12-29
+C10550,Germany,Social,2025-03-31
+C10551,France,Social,2025-04-06
+C10552,UK,Email,2025-08-14
+C10553,UK,Social,2025-09-07
+C10554,Netherlands,Paid Search,2025-10-30
+C10555,Germany,Paid Search,2026-01-19
+C10556,France,Referral,2025-12-18
+C10557,France,Referral,2025-03-24
+C10558,Netherlands,Social,2026-06-20
+C10559,Spain,Referral,2025-03-19
+C10560,UK,Paid Search,2025-09-25
+C10561,Germany,Referral,2025-05-07
+C10562,Germany,Affiliate,2025-12-04
+C10563,France,Organic,2025-06-09
+C10564,France,Organic,2025-09-30
+C10565,UK,Organic,2025-10-16
+C10566,UK,Paid Search,2025-11-30
+C10567,UK,Paid Search,2026-01-08
+C10568,UK,Social,2025-03-01
+C10569,UK,Organic,2026-04-19
+C10570,Netherlands,Organic,2026-03-26
+C10571,UK,Organic,2026-04-23
+C10572,UK,Email,2025-09-19
+C10573,France,Organic,2025-01-10
+C10574,Italy,Organic,2025-10-22
+C10575,Germany,Email,2025-08-30
+C10576,France,Affiliate,2026-01-10
+C10577,UK,Organic,2025-04-04
+C10578,Netherlands,Organic,2025-05-25
+C10579,Italy,Referral,2025-04-04
+C10580,France,Organic,2025-08-30
+C10581,Spain,Email,2025-11-13
+C10582,UK,Email,2026-03-28
+C10583,Spain,Email,2026-04-08
+C10584,UK,Social,2025-03-23
+C10585,UK,Referral,2026-06-13
+C10586,Germany,Organic,2025-07-18
+C10587,Spain,Social,2025-01-28
+C10588,UK,Paid Search,2025-05-12
+C10589,UK,Referral,2026-06-17
+C10590,UK,Social,2025-12-07
+C10591,Germany,Organic,2025-10-12
+C10592,UK,Affiliate,2025-06-30
+C10593,Italy,Paid Search,2026-02-13
+C10594,France,Referral,2026-06-20
+C10595,UK,Social,2026-01-04
+C10596,France,Paid Search,2026-02-04
+C10597,Germany,Referral,2026-01-15
+C10598,France,Email,2025-12-01
+C10599,UK,Social,2026-02-06
+C10600,Germany,Paid Search,2026-04-23
+C10601,UK,Referral,2025-03-19
+C10602,France,Referral,2025-10-25
+C10603,Italy,Affiliate,2025-07-17
+C10604,France,Paid Search,2025-09-22
+C10605,Netherlands,Social,2025-10-10
+C10606,UK,Email,2025-08-12
+C10607,UK,Referral,2025-04-18
+C10608,Spain,Organic,2025-06-21
+C10609,UK,Referral,2026-04-18
+C10610,Spain,Referral,2025-01-05
+C10611,UK,Organic,2026-06-29
+C10612,UK,Social,2026-05-03
+C10613,Italy,Referral,2025-03-13
+C10614,Germany,Affiliate,2025-03-06
+C10615,Germany,Organic,2025-10-26
+C10616,Spain,Affiliate,2025-07-14
+C10617,France,Email,2025-12-15
+C10618,Netherlands,Organic,2026-03-23
+C10619,Netherlands,Referral,2026-04-02
+C10620,France,Referral,2025-04-06
+C10621,Germany,Referral,2025-07-20
+C10622,Germany,Organic,2025-08-30
+C10623,Germany,Affiliate,2025-06-26
+C10624,France,Email,2025-12-12
+C10625,UK,Social,2025-05-06
+C10626,Italy,Referral,2025-03-20
+C10627,UK,Email,2025-05-04
+C10628,UK,Organic,2025-03-16
+C10629,Netherlands,Social,2025-01-24
+C10630,UK,Organic,2026-02-20
+C10631,UK,Social,2025-05-03
+C10632,UK,Email,2026-06-16
+C10633,Italy,Paid Search,2025-09-05
+C10634,UK,Email,2025-08-01
+C10635,Germany,Paid Search,2026-02-13
+C10636,Germany,Paid Search,2026-04-08
+C10637,Netherlands,Email,2025-04-13
+C10638,UK,Affiliate,2025-09-22
+C10639,Netherlands,Affiliate,2025-10-26
+C10640,Germany,Social,2026-01-29
+C10641,Netherlands,Organic,2025-09-12
+C10642,France,Organic,2026-02-23
+C10643,Italy,Paid Search,2025-01-29
+C10644,UK,Social,2026-02-04
+C10645,France,Referral,2026-01-13
+C10646,Germany,Affiliate,2026-06-01
+C10647,Netherlands,Email,2026-01-30
+C10648,Spain,Paid Search,2025-03-12
+C10649,Netherlands,Organic,2025-11-19
+C10650,UK,Organic,2026-04-26
+C10651,Germany,Organic,2026-04-17
+C10652,Germany,Paid Search,2025-06-15
+C10653,UK,Affiliate,2026-04-02
+C10654,Germany,Email,2025-08-25
+C10655,UK,Social,2025-07-11
+C10656,Netherlands,Referral,2025-03-28
+C10657,France,Paid Search,2025-12-27
+C10658,UK,Paid Search,2025-04-28
+C10659,Italy,Paid Search,2025-05-22
+C10660,Netherlands,Affiliate,2026-04-08
+C10661,Spain,Affiliate,2025-06-17
+C10662,UK,Referral,2025-01-10
+C10663,UK,Email,2025-08-10
+C10664,UK,Organic,2025-03-31
+C10665,Netherlands,Paid Search,2025-10-20
+C10666,UK,Social,2025-10-05
+C10667,Spain,Organic,2025-02-05
+C10668,UK,Affiliate,2025-07-09
+C10669,Netherlands,Organic,2026-01-22
+C10670,France,Paid Search,2025-11-18
+C10671,UK,Organic,2026-03-09
+C10672,France,Paid Search,2026-03-30
+C10673,Netherlands,Organic,2025-10-27
+C10674,Italy,Paid Search,2025-07-11
+C10675,Spain,Referral,2025-03-31
+C10676,Spain,Social,2026-01-07
+C10677,UK,Social,2026-04-02
+C10678,France,Affiliate,2026-01-07
+C10679,Netherlands,Organic,2025-05-02
+C10680,Italy,Organic,2026-05-30
+C10681,Netherlands,Social,2025-08-21
+C10682,Netherlands,Paid Search,2026-03-09
+C10683,France,Organic,2025-08-15
+C10684,UK,Organic,2025-05-09
+C10685,Spain,Paid Search,2025-01-10
+C10686,France,Paid Search,2025-03-09
+C10687,UK,Organic,2025-01-02
+C10688,Germany,Social,2025-02-01
+C10689,UK,Referral,2026-05-16
+C10690,France,Email,2025-01-03
+C10691,UK,Affiliate,2025-11-20
+C10692,UK,Organic,2025-11-07
+C10693,UK,Referral,2026-02-14
+C10694,Netherlands,Paid Search,2026-04-09
+C10695,Netherlands,Social,2026-04-08
+C10696,Germany,Organic,2025-07-01
+C10697,Germany,Organic,2026-01-05
+C10698,Spain,Paid Search,2025-10-31
+C10699,Italy,Organic,2026-05-13
+C10700,Netherlands,Email,2025-04-11
+C10701,France,Social,2026-03-07
+C10702,Netherlands,Social,2025-09-09
+C10703,Spain,Organic,2026-04-02
+C10704,France,Referral,2026-04-01
+C10705,Germany,Organic,2025-02-03
+C10706,France,Email,2026-03-09
+C10707,UK,Social,2025-08-17
+C10708,UK,Affiliate,2026-01-03
+C10709,UK,Organic,2025-12-10
+C10710,UK,Referral,2025-03-16
+C10711,Germany,Referral,2025-05-02
+C10712,Spain,Email,2025-02-20
+C10713,Germany,Social,2025-04-28
+C10714,France,Paid Search,2025-03-31
+C10715,Spain,Referral,2025-02-03
+C10716,Italy,Paid Search,2025-09-04
+C10717,Spain,Email,2025-09-03
+C10718,Italy,Referral,2026-02-17
+C10719,Italy,Paid Search,2025-05-14
+C10720,Italy,Affiliate,2026-04-17
+C10721,UK,Affiliate,2025-08-11
+C10722,Germany,Paid Search,2025-08-07
+C10723,France,Email,2026-03-29
+C10724,Germany,Organic,2025-09-07
+C10725,Italy,Social,2025-05-15
+C10726,Spain,Paid Search,2026-03-11
+C10727,UK,Referral,2026-06-30
+C10728,Germany,Referral,2025-12-03
+C10729,Germany,Email,2025-04-01
+C10730,France,Paid Search,2026-03-03
+C10731,Italy,Paid Search,2025-01-18
+C10732,Germany,Affiliate,2025-03-25
+C10733,UK,Organic,2025-10-30
+C10734,Netherlands,Paid Search,2025-01-21
+C10735,UK,Referral,2026-01-23
+C10736,UK,Email,2025-11-05
+C10737,France,Affiliate,2025-11-28
+C10738,Spain,Paid Search,2025-12-10
+C10739,UK,Social,2025-12-14
+C10740,UK,Paid Search,2025-01-18
+C10741,UK,Email,2025-11-19
+C10742,Germany,Email,2025-11-10
+C10743,Germany,Paid Search,2025-07-15
+C10744,France,Affiliate,2026-05-11
+C10745,Germany,Organic,2025-05-21
+C10746,UK,Email,2025-08-03
+C10747,Germany,Referral,2026-05-19
+C10748,Italy,Organic,2025-05-09
+C10749,Germany,Email,2026-01-15
+C10750,UK,Social,2026-06-11
+C10751,France,Paid Search,2025-04-24
+C10752,Spain,Paid Search,2026-06-02
+C10753,France,Email,2026-06-04
+C10754,Spain,Organic,2026-02-03
+C10755,Germany,Affiliate,2025-06-19
+C10756,UK,Social,2026-03-05
+C10757,Germany,Paid Search,2026-03-29
+C10758,Germany,Referral,2026-02-19
+C10759,Netherlands,Paid Search,2025-11-04
+C10760,Italy,Organic,2026-01-12
+C10761,Italy,Affiliate,2026-06-14
+C10762,Italy,Organic,2026-04-07
+C10763,UK,Organic,2025-10-16
+C10764,Spain,Organic,2026-04-03
+C10765,Spain,Referral,2026-04-10
+C10766,Germany,Organic,2025-08-13
+C10767,Netherlands,Social,2026-04-11
+C10768,Germany,Organic,2026-06-12
+C10769,UK,Paid Search,2025-09-22
+C10770,UK,Organic,2025-02-13
+C10771,UK,Organic,2025-01-31
+C10772,Germany,Referral,2025-06-25
+C10773,UK,Affiliate,2025-02-13
+C10774,Germany,Social,2025-11-10
+C10775,France,Social,2025-04-09
+C10776,Netherlands,Paid Search,2025-01-02
+C10777,UK,Organic,2025-08-09
+C10778,Germany,Social,2025-09-14
+C10779,Germany,Social,2026-06-30
+C10780,France,Social,2026-01-31
+C10781,France,Email,2026-02-22
+C10782,Germany,Affiliate,2026-06-14
+C10783,Spain,Paid Search,2025-12-19
+C10784,UK,Organic,2026-06-03
+C10785,Germany,Organic,2025-04-05
+C10786,Germany,Social,2026-05-27
+C10787,UK,Referral,2026-02-13
+C10788,UK,Social,2026-05-14
+C10789,UK,Paid Search,2026-01-21
+C10790,UK,Social,2025-07-06
+C10791,Italy,Referral,2025-07-12
+C10792,France,Paid Search,2025-04-04
+C10793,UK,Email,2025-03-03
+C10794,France,Organic,2026-02-12
+C10795,Germany,Organic,2026-06-09
+C10796,Netherlands,Social,2025-07-23
+C10797,Germany,Social,2025-01-23
+C10798,Spain,Social,2025-07-07
+C10799,Spain,Organic,2025-11-27
+C10800,Germany,Affiliate,2025-10-01
+C10801,Germany,Organic,2026-01-17
+C10802,UK,Affiliate,2025-09-10
+C10803,UK,Organic,2026-02-12
+C10804,France,Social,2025-11-02
+C10805,Spain,Affiliate,2025-04-06
+C10806,Italy,Organic,2026-06-17
+C10807,Germany,Affiliate,2025-07-06
+C10808,UK,Affiliate,2025-06-03
+C10809,Italy,Social,2025-12-10
+C10810,France,Referral,2025-10-27
+C10811,UK,Organic,2026-01-24
+C10812,UK,Affiliate,2025-09-22
+C10813,UK,Affiliate,2025-11-14
+C10814,Germany,Referral,2025-04-13
+C10815,Netherlands,Organic,2026-01-30
+C10816,France,Paid Search,2025-02-23
+C10817,UK,Social,2026-04-02
+C10818,UK,Organic,2025-07-10
+C10819,Germany,Affiliate,2025-07-24
+C10820,Germany,Organic,2026-06-03
+C10821,UK,Social,2025-09-27
+C10822,Germany,Social,2025-11-11
+C10823,UK,Paid Search,2025-01-10
+C10824,UK,Organic,2026-05-17
+C10825,UK,Paid Search,2025-08-16
+C10826,Germany,Paid Search,2026-04-30
+C10827,UK,Referral,2025-11-06
+C10828,Italy,Social,2025-11-30
+C10829,UK,Organic,2025-09-02
+C10830,Spain,Paid Search,2025-04-06
+C10831,France,Organic,2026-03-29
+C10832,Netherlands,Paid Search,2025-04-03
+C10833,France,Referral,2025-01-08
+C10834,Spain,Social,2025-12-15
+C10835,Netherlands,Organic,2026-06-13
+C10836,Italy,Affiliate,2025-06-14
+C10837,Italy,Affiliate,2025-02-17
+C10838,UK,Email,2025-08-19
+C10839,France,Social,2025-03-31
+C10840,Spain,Email,2025-11-27
+C10841,Netherlands,Paid Search,2026-02-04
+C10842,France,Social,2026-06-11
+C10843,Netherlands,Email,2025-05-27
+C10844,Italy,Organic,2025-11-03
+C10845,UK,Referral,2026-05-26
+C10846,Italy,Paid Search,2025-07-11
+C10847,UK,Paid Search,2026-05-13
+C10848,Italy,Affiliate,2025-10-30
+C10849,UK,Paid Search,2025-05-24
+C10850,Germany,Paid Search,2026-06-24
+C10851,Italy,Paid Search,2025-05-06
+C10852,France,Organic,2026-06-06
+C10853,UK,Organic,2025-05-31
+C10854,Germany,Paid Search,2025-01-30
+C10855,France,Affiliate,2025-06-21
+C10856,UK,Organic,2025-01-04
+C10857,UK,Organic,2025-10-16
+C10858,Germany,Referral,2025-07-21
+C10859,Spain,Email,2025-01-12
+C10860,Spain,Social,2026-03-24
+C10861,UK,Paid Search,2025-05-07
+C10862,Germany,Paid Search,2025-09-12
+C10863,Germany,Social,2026-06-02
+C10864,Germany,Organic,2026-02-04
+C10865,UK,Email,2025-03-01
+C10866,Germany,Email,2025-01-22
+C10867,Germany,Social,2025-08-31
+C10868,Germany,Paid Search,2026-01-24
+C10869,France,Affiliate,2025-03-09
+C10870,Netherlands,Social,2025-09-29
+C10871,Netherlands,Email,2026-02-20
+C10872,Germany,Email,2025-04-16
+C10873,Germany,Organic,2025-10-11
+C10874,Germany,Paid Search,2025-09-13
+C10875,Netherlands,Social,2025-04-25
+C10876,UK,Paid Search,2026-04-24
+C10877,Italy,Social,2026-04-06
+C10878,UK,Referral,2026-02-08
+C10879,France,Organic,2025-04-21
+C10880,Spain,Affiliate,2025-12-12
+C10881,Germany,Referral,2025-04-24
+C10882,UK,Paid Search,2026-05-16
+C10883,Germany,Social,2026-02-27
+C10884,UK,Paid Search,2025-04-27
+C10885,Germany,Paid Search,2025-01-05
+C10886,Italy,Social,2025-05-17
+C10887,France,Organic,2026-02-21
+C10888,Germany,Social,2025-07-01
+C10889,UK,Email,2025-03-03
+C10890,Germany,Organic,2025-11-09
+C10891,UK,Email,2025-08-25
+C10892,Italy,Organic,2025-10-06
+C10893,France,Email,2026-01-16
+C10894,UK,Organic,2025-01-29
+C10895,France,Paid Search,2026-06-21
+C10896,Germany,Email,2025-07-11
+C10897,UK,Email,2026-02-03
+C10898,UK,Organic,2025-04-28
+C10899,France,Affiliate,2025-06-24
+C10900,UK,Organic,2026-06-09
+C10901,UK,Email,2025-09-11
+C10902,UK,Organic,2026-06-03
+C10903,Germany,Referral,2025-02-15
+C10904,Spain,Paid Search,2026-04-19
+C10905,Netherlands,Email,2025-01-23
+C10906,France,Organic,2025-02-16
+C10907,Spain,Social,2025-10-26
+C10908,UK,Social,2025-06-18
+C10909,Netherlands,Social,2025-06-11
+C10910,Italy,Paid Search,2025-06-07
+C10911,Germany,Affiliate,2025-10-23
+C10912,Germany,Paid Search,2025-05-08
+C10913,UK,Organic,2025-12-01
+C10914,UK,Organic,2026-03-21
+C10915,France,Email,2025-07-07
+C10916,France,Paid Search,2025-06-09
+C10917,France,Organic,2025-07-29
+C10918,France,Organic,2026-02-25
+C10919,UK,Affiliate,2025-12-02
+C10920,UK,Organic,2025-07-21
+C10921,UK,Organic,2026-01-22
+C10922,UK,Paid Search,2026-04-24
+C10923,Germany,Paid Search,2025-07-27
+C10924,Netherlands,Email,2025-11-02
+C10925,France,Organic,2026-01-28
+C10926,UK,Affiliate,2025-03-22
+C10927,Germany,Paid Search,2025-11-11
+C10928,UK,Referral,2026-05-24
+C10929,Netherlands,Email,2026-05-10
+C10930,Germany,Paid Search,2026-02-21
+C10931,UK,Paid Search,2026-04-10
+C10932,UK,Organic,2025-05-25
+C10933,France,Social,2026-05-17
+C10934,UK,Social,2025-06-17
+C10935,UK,Social,2026-01-09
+C10936,UK,Email,2025-05-19
+C10937,Germany,Referral,2026-05-20
+C10938,UK,Social,2025-09-18
+C10939,Germany,Affiliate,2026-01-12
+C10940,Germany,Paid Search,2025-08-25
+C10941,Germany,Paid Search,2026-01-06
+C10942,France,Paid Search,2025-10-04
+C10943,Netherlands,Affiliate,2025-12-12
+C10944,France,Social,2026-02-10
+C10945,Netherlands,Affiliate,2025-12-07
+C10946,UK,Organic,2025-09-01
+C10947,France,Affiliate,2026-01-23
+C10948,UK,Paid Search,2026-02-03
+C10949,UK,Organic,2025-02-16
+C10950,UK,Email,2025-10-31
+C10951,UK,Affiliate,2025-08-11
+C10952,UK,Email,2026-04-27
+C10953,Netherlands,Organic,2026-05-17
+C10954,France,Organic,2025-03-12
+C10955,France,Paid Search,2025-05-30
+C10956,UK,Social,2026-02-28
+C10957,Netherlands,Social,2025-06-25
+C10958,UK,Organic,2025-01-15
+C10959,UK,Referral,2026-02-06
+C10960,UK,Paid Search,2025-10-08
+C10961,Italy,Email,2025-11-05
+C10962,UK,Social,2025-06-09
+C10963,Netherlands,Email,2025-01-31
+C10964,France,Email,2026-02-04
+C10965,Netherlands,Email,2025-01-31
+C10966,UK,Email,2025-02-26
+C10967,UK,Organic,2026-01-27
+C10968,Germany,Organic,2025-05-17
+C10969,UK,Paid Search,2025-11-24
+C10970,UK,Social,2026-06-10
+C10971,Germany,Organic,2026-06-20
+C10972,Germany,Paid Search,2026-03-23
+C10973,Germany,Referral,2026-05-28
+C10974,France,Organic,2026-05-03
+C10975,Spain,Social,2025-12-06
+C10976,Germany,Email,2025-07-10
+C10977,Germany,Paid Search,2025-01-01
+C10978,UK,Referral,2026-01-13
+C10979,Netherlands,Email,2026-02-06
+C10980,France,Social,2025-03-02
+C10981,UK,Paid Search,2025-03-31
+C10982,UK,Organic,2025-08-19
+C10983,UK,Affiliate,2025-07-08
+C10984,UK,Social,2025-09-29
+C10985,UK,Organic,2025-02-05
+C10986,Netherlands,Organic,2025-10-21
+C10987,UK,Referral,2025-10-17
+C10988,Spain,Referral,2025-06-22
+C10989,Italy,Affiliate,2025-01-05
+C10990,France,Email,2025-09-14
+C10991,Netherlands,Social,2025-11-30
+C10992,Netherlands,Affiliate,2025-08-10
+C10993,UK,Email,2025-08-20
+C10994,Netherlands,Email,2025-12-23
+C10995,UK,Affiliate,2025-10-04
+C10996,UK,Social,2025-12-30
+C10997,UK,Paid Search,2026-04-03
+C10998,UK,Paid Search,2026-02-11
+C10999,UK,Referral,2025-01-13
+C11000,Spain,Email,2025-11-11
+C11001,UK,Referral,2025-02-14
+C11002,Italy,Referral,2026-03-27
+C11003,Germany,Referral,2025-11-07
+C11004,France,Paid Search,2025-10-17
+C11005,France,Organic,2025-04-14
+C11006,Spain,Referral,2025-06-26
+C11007,UK,Email,2025-10-27
+C11008,UK,Affiliate,2025-11-24
+C11009,UK,Organic,2026-05-15
+C11010,Germany,Organic,2026-04-25
+C11011,Germany,Affiliate,2025-11-29
+C11012,Netherlands,Referral,2025-03-14
+C11013,France,Email,2025-07-07
+C11014,Germany,Referral,2026-06-20
+C11015,Germany,Social,2025-11-17
+C11016,Netherlands,Email,2025-06-30
+C11017,UK,Email,2025-10-27
+C11018,Italy,Paid Search,2025-05-22
+C11019,UK,Social,2026-05-01
+C11020,UK,Organic,2026-05-12
+C11021,UK,Referral,2025-05-28
+C11022,Netherlands,Paid Search,2025-05-11
+C11023,UK,Referral,2025-07-03
+C11024,France,Email,2025-08-22
+C11025,UK,Paid Search,2026-01-20
+C11026,Netherlands,Social,2025-01-30
+C11027,UK,Paid Search,2026-01-04
+C11028,France,Email,2025-02-16
+C11029,Germany,Affiliate,2025-09-19
+C11030,UK,Organic,2025-10-31
+C11031,Germany,Social,2025-12-12
+C11032,Spain,Organic,2026-01-21
+C11033,UK,Email,2025-10-31
+C11034,Germany,Paid Search,2026-01-16
+C11035,Italy,Referral,2025-01-07
+C11036,Germany,Organic,2025-08-05
+C11037,Spain,Social,2025-05-26
+C11038,UK,Paid Search,2025-05-05
+C11039,Italy,Paid Search,2025-03-23
+C11040,UK,Organic,2025-07-28
+C11041,UK,Paid Search,2026-05-17
+C11042,UK,Paid Search,2026-04-13
+C11043,UK,Organic,2026-02-08
+C11044,UK,Organic,2026-02-27
+C11045,France,Affiliate,2025-08-13
+C11046,France,Paid Search,2026-04-22
+C11047,France,Email,2025-08-27
+C11048,Germany,Organic,2026-04-09
+C11049,Netherlands,Paid Search,2025-02-12
+C11050,France,Email,2026-06-22
+C11051,UK,Paid Search,2025-08-21
+C11052,Spain,Organic,2026-02-10
+C11053,Netherlands,Paid Search,2025-05-31
+C11054,UK,Paid Search,2025-12-30
+C11055,UK,Affiliate,2025-02-02
+C11056,UK,Social,2026-01-15
+C11057,UK,Paid Search,2025-07-10
+C11058,UK,Organic,2025-11-24
+C11059,Italy,Referral,2025-09-22
+C11060,UK,Paid Search,2025-02-24
+C11061,France,Paid Search,2026-02-17
+C11062,UK,Paid Search,2025-04-16
+C11063,UK,Organic,2026-06-06
+C11064,Germany,Social,2025-03-10
+C11065,UK,Referral,2025-08-15
+C11066,Spain,Email,2025-08-04
+C11067,UK,Organic,2026-01-03
+C11068,UK,Email,2025-07-24
+C11069,Spain,Social,2026-05-03
+C11070,Germany,Paid Search,2025-05-03
+C11071,UK,Organic,2025-04-25
+C11072,UK,Paid Search,2025-11-28
+C11073,UK,Organic,2025-11-26
+C11074,UK,Organic,2025-01-26
+C11075,France,Email,2025-03-13
+C11076,France,Paid Search,2026-02-14
+C11077,UK,Affiliate,2025-06-25
+C11078,Italy,Social,2026-04-21
+C11079,France,Affiliate,2025-09-30
+C11080,Italy,Referral,2025-04-13
+C11081,Germany,Social,2026-06-21
+C11082,France,Social,2025-10-14
+C11083,Germany,Paid Search,2026-03-01
+C11084,UK,Organic,2025-01-14
+C11085,France,Paid Search,2025-04-03
+C11086,UK,Email,2025-04-20
+C11087,UK,Social,2025-05-16
+C11088,UK,Paid Search,2025-09-28
+C11089,Spain,Social,2026-02-23
+C11090,Italy,Organic,2026-03-22
+C11091,UK,Paid Search,2025-02-17
+C11092,Netherlands,Paid Search,2025-01-10
+C11093,Italy,Paid Search,2025-07-14
+C11094,Italy,Paid Search,2025-03-02
+C11095,Spain,Email,2026-02-09
+C11096,France,Paid Search,2025-07-03
+C11097,UK,Paid Search,2026-01-22
+C11098,UK,Affiliate,2025-11-26
+C11099,UK,Organic,2025-04-05
+C11100,Italy,Referral,2026-03-22
+C11101,UK,Affiliate,2025-07-03
+C11102,UK,Referral,2026-05-24
+C11103,Germany,Referral,2026-06-04
+C11104,Germany,Organic,2025-06-07
+C11105,Italy,Affiliate,2025-09-30
+C11106,UK,Email,2025-01-06
+C11107,Germany,Organic,2025-06-07
+C11108,Germany,Referral,2025-10-27
+C11109,UK,Paid Search,2025-11-01
+C11110,France,Referral,2025-03-16
+C11111,France,Referral,2025-04-14
+C11112,UK,Affiliate,2025-04-28
+C11113,Germany,Paid Search,2026-02-26
+C11114,Germany,Paid Search,2025-03-13
+C11115,Italy,Paid Search,2025-10-23
+C11116,Germany,Referral,2025-03-29
+C11117,UK,Paid Search,2026-03-05
+C11118,Italy,Email,2026-03-04
+C11119,Germany,Organic,2025-04-12
+C11120,Netherlands,Referral,2025-10-19
+C11121,France,Affiliate,2026-03-16
+C11122,UK,Paid Search,2025-01-20
+C11123,UK,Paid Search,2025-09-29
+C11124,Spain,Referral,2026-04-25
+C11125,UK,Affiliate,2025-10-27
+C11126,UK,Affiliate,2025-02-21
+C11127,UK,Referral,2026-05-26
+C11128,UK,Affiliate,2025-08-03
+C11129,UK,Referral,2025-01-03
+C11130,Netherlands,Paid Search,2026-06-04
+C11131,France,Referral,2025-09-21
+C11132,UK,Email,2025-09-21
+C11133,Germany,Affiliate,2026-04-12
+C11134,Germany,Referral,2026-04-12
+C11135,Netherlands,Organic,2025-11-03
+C11136,Netherlands,Referral,2026-04-29
+C11137,UK,Email,2026-04-26
+C11138,UK,Organic,2025-02-28
+C11139,Italy,Affiliate,2025-09-04
+C11140,Germany,Organic,2025-10-10
+C11141,France,Organic,2026-05-18
+C11142,France,Referral,2026-06-07
+C11143,Spain,Affiliate,2025-05-10
+C11144,Italy,Organic,2026-01-28
+C11145,Italy,Affiliate,2025-07-15
+C11146,Netherlands,Referral,2025-11-19
+C11147,UK,Paid Search,2025-05-20
+C11148,Netherlands,Paid Search,2026-06-21
+C11149,Spain,Paid Search,2026-03-02
+C11150,UK,Referral,2025-06-04
+C11151,UK,Email,2025-12-14
+C11152,France,Paid Search,2025-07-05
+C11153,Germany,Paid Search,2025-05-01
+C11154,Spain,Paid Search,2026-04-18
+C11155,Netherlands,Affiliate,2025-09-23
+C11156,Netherlands,Affiliate,2026-05-28
+C11157,Italy,Paid Search,2025-06-05
+C11158,Netherlands,Organic,2025-10-26
+C11159,UK,Organic,2025-09-17
+C11160,Germany,Organic,2026-04-08
+C11161,Italy,Organic,2026-01-26
+C11162,Italy,Referral,2025-08-02
+C11163,UK,Social,2025-10-05
+C11164,Germany,Organic,2025-03-03
+C11165,Germany,Paid Search,2025-07-30
+C11166,Germany,Paid Search,2025-03-11
+C11167,Spain,Organic,2025-12-18
+C11168,UK,Referral,2025-10-27
+C11169,UK,Social,2025-08-17
+C11170,UK,Referral,2026-06-17
+C11171,UK,Organic,2025-07-12
+C11172,Germany,Organic,2025-08-19
+C11173,UK,Email,2025-02-23
+C11174,UK,Email,2025-04-26
+C11175,France,Paid Search,2025-11-16
+C11176,Germany,Organic,2025-07-09
+C11177,Italy,Organic,2025-11-11
+C11178,Germany,Email,2025-04-14
+C11179,UK,Email,2025-08-17
+C11180,Spain,Organic,2025-03-18
+C11181,Netherlands,Organic,2025-01-28
+C11182,Spain,Paid Search,2026-06-09
+C11183,Italy,Referral,2025-07-27
+C11184,France,Paid Search,2025-02-19
+C11185,UK,Organic,2026-05-17
+C11186,UK,Affiliate,2026-06-08
+C11187,UK,Social,2025-05-08
+C11188,UK,Email,2025-03-09
+C11189,Italy,Affiliate,2025-10-09
+C11190,Netherlands,Paid Search,2026-04-10
+C11191,UK,Paid Search,2026-03-26
+C11192,UK,Email,2025-08-23
+C11193,UK,Social,2025-01-20
+C11194,UK,Paid Search,2025-01-23
+C11195,UK,Referral,2025-08-19
+C11196,Germany,Organic,2025-08-10
+C11197,France,Referral,2025-04-07
+C11198,Italy,Paid Search,2025-09-22
+C11199,Germany,Organic,2025-01-27
