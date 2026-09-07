@@ -1,61 +1,141 @@
-# E-Commerce Customer Profitability & Retention Analytics
+# E-commerce Customer Profitability & Retention Analytics
 
-A client-facing Business Intelligence portfolio project designed to answer:
+## Project Overview
 
-> **Are we growing revenue, or are we growing profitable and loyal customers?**
+This project analyzes e-commerce customer profitability and retention
+to understand which customers generate the most value, how customer
+behavior relates to profitability, and where retention risks may exist.
 
-## What this project demonstrates
+The project follows an end-to-end data analytics workflow:
 
-- SQL analytical modelling
-- Power Query transformation
-- Power BI star-schema design
-- Advanced DAX measure layer
-- Customer profitability
-- Retention and cohort analysis
-- Discount economics
-- Returns / revenue leakage
-- Management-oriented data visualisation
-- Business recommendations
+Data Preparation → SQL Analysis → Power BI Reporting → Business Insights
 
-## Six-page report
+---
 
-1. Executive Command Center
-2. Commercial Performance
-3. Customer Profitability
-4. Retention & Cohorts
-5. Discount & Returns
-6. Management Actions
+## Business Questions
 
-## Repository structure
+The analysis focuses on the following questions:
 
-```text
-ecommerce-customer-profitability-retention-analytics/
-├── data/
-├── SQL/
-├── Power_Query/
-├── Power_BI/
-├── Data_Visualization/
-├── Documentation/
-├── Power_BI/Dashboard_Previews/
-└── README.md
-```
+- Which customers generate the highest profit?
+- Which customer segments contribute the most to overall profitability?
+- How does customer retention vary across segments?
+- What patterns can be observed between customer activity and profitability?
+- Which customers or segments may represent retention opportunities?
+- Which products or categories contribute most to customer value?
 
-## Dashboard previews
-
-See the `Power_BI/Dashboard_Previews/` folder for six polished report-page previews.
-These previews are intended to communicate the final Power BI design on GitHub and LinkedIn.
+---
 
 ## Data
 
-All data is synthetic and created specifically for portfolio demonstration.
-No confidential employer, customer or commercial data is included.
+The project uses e-commerce transaction and customer-level data.
 
-## Power BI note
+The data was prepared and transformed before analysis to ensure
+consistent calculations and reporting.
 
-The repository contains the model architecture, DAX, Power Query and visual specifications.
-The final `.pbix` binary must be saved from Power BI Desktop after implementing the supplied model and measures.
+---
 
-## Portfolio positioning
+## Analytical Workflow
 
-This project intentionally complements a separate manufacturing production-performance project.
-The first demonstrates operational analytics; this project demonstrates commercial/customer analytics.
+### 1. Data Preparation
+
+Data preparation and transformation were performed using Power Query.
+
+Key steps included:
+
+- Data cleaning
+- Data type validation
+- Handling missing or inconsistent values
+- Transformation of fields required for analysis
+- Preparation of analytical tables
+
+### 2. SQL Analysis
+
+SQL was used to perform customer-level and business-oriented analysis.
+
+The analysis focuses on:
+
+- Customer profitability
+- Customer segmentation
+- Retention-related metrics
+- Revenue and profit analysis
+- Aggregations and comparative analysis
+
+### 3. Power BI Reporting
+
+The prepared data was modeled and visualized in Power BI.
+
+The dashboard provides an interactive view of:
+
+- Customer profitability
+- Retention
+- Customer segments
+- Revenue and profit performance
+- Key business KPIs
+
+---
+
+## Dashboard
+
+### Customer Profitability
+
+[dashboard screenshot]
+
+### Customer Retention
+
+[dashboard screenshot]
+
+### Customer Segmentation
+
+[dashboard screenshot]
+
+---
+
+## Key Insights
+
+> Bu bölüme projedeki GERÇEK bulgularımızı koyacağız.
+
+- ...
+- ...
+- ...
+
+---
+
+## Business Recommendations
+
+Based on the analysis:
+
+- ...
+- ...
+- ...
+
+---
+
+## Tools & Technologies
+
+- SQL
+- Power Query
+- Power BI
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Repository Structure
+
+```text
+data/
+├── raw/
+└── processed/
+
+analysis/
+├── sql/
+└── power_query/
+
+dashboard/
+├── power_bi/
+└── screenshots/
+
+documentation/
+
+README.md
